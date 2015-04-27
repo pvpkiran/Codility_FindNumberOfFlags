@@ -13,6 +13,7 @@ Example 1 : Given A[0][0]=5, A[0][1]=4, A[0][2]= 4
                   A[5][0]=1, A[5][1]=4, A[5][2]= 4			
                   A[6][0]=4, A[6][1]=1, A[6][2]= 1						
                   
-        The output should be 11.
+  
+The output should be 11.
         
 Please see the attached screenshot how it is grouped.
