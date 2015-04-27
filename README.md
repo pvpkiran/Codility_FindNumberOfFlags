@@ -16,4 +16,4 @@ Example 1 : Given A[0][0]=5, A[0][1]=4, A[0][2]= 4
   
 The output should be 11.
         
-Please see the attached screenshot how it is grouped.
+Please see the attached screenshot(src/output.jpg) how it is grouped.
